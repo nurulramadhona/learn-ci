@@ -1,0 +1,4 @@
+#!/bin/bash
+docker container create --name web-server -p 8080:80 httpd:github-test
+docker container start web-server
+curl http://localhost:8080
