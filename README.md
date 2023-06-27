@@ -1,5 +1,5 @@
 This repo is created for blog tutorial: 
-https://community.ops.io/nurulramadhona/a-simple-idea-to-learn-ci-for-beginner-2ipj
+https://nurulramadhona.medium.com/a-simple-idea-to-learn-ci-for-beginner-d0fb3367ff55
 
 GitLab: 
 https://gitlab.com/nurulramadhona/learn-ci
